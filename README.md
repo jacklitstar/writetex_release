@@ -6,8 +6,11 @@ This is the release repo of WriteTex, it is for:
 - Release downloads
 - Issue
 
+Issues that don't follow the issue template will be closed. 
 
 [WriteTex](https://www.writetex.cn)_是一款能使用你的模型在 iPad 和安卓平板上识别手写数学公式并同步结果到电脑端直接粘贴的软件。
 这是WriteTex的发布仓库，它是用来：
 - 发布版本
 - 提交 issue
+
+不遵循issue模板的问题将被关闭。

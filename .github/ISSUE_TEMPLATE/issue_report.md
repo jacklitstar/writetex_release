@@ -13,6 +13,7 @@ assignees: []
 - [ ] I am not using beta or development OS versions. 我的系统环境不是beta测试版或者开发版。
 - [ ] My device/system is not jailbroken or rooted. 我的设备没有越狱或者ROOT。
 - [ ] If the issue is about AI API, I've tested and confirmed that the API is working elsewhere. 如果是关于AI API的问题，我已经测试并确认API在别的程序中是正常工作的。
+- [ ] I have read the [docs](https://www.writetex.com/docs/) and am sure that the issue is not covered. 我已经阅读了 [文档](https://www.writetex.com/docs/) 并确定问题未被文档提及。
 
 
 

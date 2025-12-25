@@ -33,7 +33,7 @@ A clear and concise description of what the bug is. 清晰简洁地描述问题�
 If applicable, add screenshots to help explain your problem. 如果有必要，添加截图来帮助解释问题。
 
 ### System Information
-
+If the issue is about syncing, provide information for both devices. 如果问题与跨设备同步有关，提供两个设备的相关信息。
 - OS; 操作系统:
 - OS version; 操作系统版本:
 - Device/Hardware; 设备/硬件:
